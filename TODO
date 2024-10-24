@@ -1,0 +1,25 @@
+[June 15, 2024]
+- Canvas cant instantiate with string constructor name
+  Solved: Define constant as class
+
+[June 17, 2024]
+- Integrate Broadcasting
+-- Channels: Keyboard
+
+- Integrate React
+
+- Keyboard events may need to be defined in part or in whole by server.
+
+- Things defined in part or in whole nby the server:
+-- # of client buffers
+-- Scene objects
+-- Keyboard input events
+
+- Some logic may need to be duplicated between client and server.
+-- "Installing" a game may include this payload
+
+Question: What's the "install" process?
+
+[July 18, 2024]
+- Client should have modules: gui, sprites
+
