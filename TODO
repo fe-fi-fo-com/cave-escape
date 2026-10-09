@@ -23,3 +23,6 @@ Question: What's the "install" process?
 [July 18, 2024]
 - Client should have modules: gui, sprites
 
+[October 23, 2024]
+- Need to separate out ASCII render engine
+
